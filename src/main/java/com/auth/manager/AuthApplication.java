@@ -1,4 +1,4 @@
-package com.auth.manager.auth;
+package com.auth.manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
